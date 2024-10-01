@@ -46,7 +46,7 @@
 }
 .header-image:hover {
     transform: rotateZ(0deg);
-    border-color: rgb(0, 200, 200);
+    border-color: rgb(163, 251, 251);
     border-width: 4px;
 }
 
