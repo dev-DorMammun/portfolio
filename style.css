@@ -76,7 +76,7 @@
     .header-image {
         display: flex;
         justify-content: center;
-        transform: scale(0.85);
+        transform: scale(0.85) rotateZ(-8deg);
     }
     .header-image:hover {
         transform: scale(0.85);
